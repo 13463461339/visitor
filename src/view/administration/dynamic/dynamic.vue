@@ -69,6 +69,7 @@ const handleSelectionChange = (val:any) => {
 }
 const opoion = reactive({
   selection: "",
+  // sfkld
 });
 // 定义列表数据
 const tableData = reactive({
